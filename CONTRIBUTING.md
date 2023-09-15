@@ -1,5 +1,8 @@
 # Contributing
 
+## Changes Made for Demo
+Learning git..
+
 ## Welcome
 KubeFATE is developed in the open, and is constantly being improved by our **users, contributors, and maintainers**. It is because of you that we can bring great software to the community.
 
